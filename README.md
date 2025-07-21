@@ -14,8 +14,8 @@ This project investigates which factors most influenced survival on the Titanic 
 ## 🧠 Key Steps
 
 1. **Data Cleaning**
-   - Handled missing values in `Age`, `Embarked`, and other columns
-   - Created new features like `Family_size`
+   - Handled missing values in Age, Embarked, and other columns
+   - Created new features like Family_size
    - Encoded categorical variables (e.g., Sex, Embarked)
 
 2. **Exploratory Data Analysis**
@@ -49,7 +49,7 @@ This project investigates which factors most influenced survival on the Titanic 
 
 ## 📁 Files
 
-- `Titanic.ipynb`: Full Jupyter Notebook with code and analysis
+- Titanic.ipynb: Full Jupyter Notebook with code and analysis
 - `README.md`: This file
 
 ---
