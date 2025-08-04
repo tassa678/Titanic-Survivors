@@ -73,3 +73,5 @@ This project investigates which factors most influenced survival on the Titanic 
 ## ✅ Conclusion
 
 This project demonstrates the typical machine learning pipeline and shows how basic feature engineering and interpretation can lead to valuable insights using real-world data.
+
+Source: Kaggle datasets
